@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sevtechcodes/todo-app-with-react-hooks.git/static/css/main.b1e8f748.chunk.css",
+    "main.js": "/sevtechcodes/todo-app-with-react-hooks.git/static/js/main.0d5e3fe8.chunk.js",
+    "main.js.map": "/sevtechcodes/todo-app-with-react-hooks.git/static/js/main.0d5e3fe8.chunk.js.map",
+    "runtime-main.js": "/sevtechcodes/todo-app-with-react-hooks.git/static/js/runtime-main.4e5b2c55.js",
+    "runtime-main.js.map": "/sevtechcodes/todo-app-with-react-hooks.git/static/js/runtime-main.4e5b2c55.js.map",
+    "static/js/2.4b470c50.chunk.js": "/sevtechcodes/todo-app-with-react-hooks.git/static/js/2.4b470c50.chunk.js",
+    "static/js/2.4b470c50.chunk.js.map": "/sevtechcodes/todo-app-with-react-hooks.git/static/js/2.4b470c50.chunk.js.map",
+    "index.html": "/sevtechcodes/todo-app-with-react-hooks.git/index.html",
+    "precache-manifest.6e1c4c1f2bddbb0240f96186c6c686a0.js": "/sevtechcodes/todo-app-with-react-hooks.git/precache-manifest.6e1c4c1f2bddbb0240f96186c6c686a0.js",
+    "service-worker.js": "/sevtechcodes/todo-app-with-react-hooks.git/service-worker.js",
+    "static/css/main.b1e8f748.chunk.css.map": "/sevtechcodes/todo-app-with-react-hooks.git/static/css/main.b1e8f748.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e5b2c55.js",
+    "static/js/2.4b470c50.chunk.js",
+    "static/css/main.b1e8f748.chunk.css",
+    "static/js/main.0d5e3fe8.chunk.js"
+  ]
+}
